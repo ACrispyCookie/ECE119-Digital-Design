@@ -1,0 +1,49 @@
+**** module/scope: t_add_sub_4_bit
+     Flip-Flops   : 0
+     Logic Gates  : 0
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted
+**** module/scope: t_add_sub_4_bit.FA
+     Flip-Flops   : 0
+     Logic Gates  : 4
+**** module/scope: t_add_sub_4_bit.FA.FA0
+     Flip-Flops   : 0
+     Logic Gates  : 1
+**** module/scope: t_add_sub_4_bit.FA.FA0.A1
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA0.A2
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA1
+     Flip-Flops   : 0
+     Logic Gates  : 1
+**** module/scope: t_add_sub_4_bit.FA.FA1.A1
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA1.A2
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA2
+     Flip-Flops   : 0
+     Logic Gates  : 1
+**** module/scope: t_add_sub_4_bit.FA.FA2.A1
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA2.A2
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA3
+     Flip-Flops   : 0
+     Logic Gates  : 1
+**** module/scope: t_add_sub_4_bit.FA.FA3.A1
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** module/scope: t_add_sub_4_bit.FA.FA3.A2
+     Flip-Flops   : 0
+     Logic Gates  : 2
+**** TOTALS
+     Flip-Flops   : 0
+     Logic Gates  : 24
+     LOG[13]: 1 unaccounted
+     LOG[14]: 1 unaccounted

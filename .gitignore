@@ -1,0 +1,23 @@
+# Digital design simulator outputs
+build/
+*.vcd
+*.fst
+*.lxt
+*.out
+*.out1
+a.out
+
+# Icarus Verilog compiled simulation files
+*.vvp
+
+# Submission archives and backup copies
+*.zip
+*.rar
+*Security copy*
+
+# Editor/OS noise
+*.swp
+*~
+.DS_Store
+.vscode/
+.idea/
